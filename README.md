@@ -12,6 +12,7 @@
 
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) 
 
 **🛠️ Infra and Tools**
 
